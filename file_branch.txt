@@ -3,7 +3,11 @@
     ^ Title
       ^^ Judul Belajar Github
     ^ Link
+      ^^ src
+      ^^ type
     ^ Meta
+      ^ Deskripsi
+      ^ Keyword
   - tutup head
   - body
   - tutup body
