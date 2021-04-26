@@ -3,7 +3,9 @@
     ^ Title
       ^^ Judul Belajar Github
     ^ Link
-    ^ Meta
+      ^ src
+      ^ type javascript
+  - style dan script
   - tutup head
   - body
   - tutup body
